@@ -1,0 +1,11 @@
+.h-60{
+    height: 60px;
+}
+table,
+thead,
+tr,
+tbody,
+th,
+td {
+  text-align: center;
+}
